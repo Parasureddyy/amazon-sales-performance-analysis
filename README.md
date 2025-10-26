@@ -1,52 +1,59 @@
-📊  AMAZON SALES PERFORMANCE ANALYSIS
--------------------------------------------------------------
+# 📊 Amazon Sales Performance Analysis  
 
-🎯  OBJECTIVE
-• To analyze Amazon-like sales data and uncover actionable insights on product performance, revenue trends, and operational efficiency.  
-• The goal is to support data-driven business decisions that enhance productivity, inventory management, and customer satisfaction.
+An end-to-end business analytics project focused on understanding sales performance, product contribution, and operational efficiency using structured Amazon-style data.
 
--------------------------------------------------------------
+---
 
-🛠️  TOOLS & TECHNIQUES
-• Excel – data cleaning, transformation, and calculations  
-• Power BI – dashboard visualization and KPI tracking  
-• Data Modeling – structured performance analysis  
-• CSV Dataset – raw structured sales data
+## 🎯 Objective  
+To analyze sales records and uncover insights on revenue trends, product performance, and growth opportunities.  
+The findings support data-driven decisions for productivity improvement, inventory optimization, and customer satisfaction.
 
--------------------------------------------------------------
+---
 
-🔍  KEY FEATURES
-• Validated and standardized sales data for consistency and accuracy.  
-• Designed dynamic dashboards for KPI monitoring and performance tracking.  
-• Conducted month-on-month and product-level trend analysis.  
-• Identified top-performing and underperforming product categories.  
-• Delivered visual summaries to support quick business decision-making.
+## 🧠 Key Focus Areas  
+- Data validation and standardization for accuracy  
+- Trend and KPI analysis at monthly and product levels  
+- Performance comparison across categories and time periods  
+- Visualization of insights for faster decision-making  
+- Operational recommendations for stock and resource planning  
 
--------------------------------------------------------------
+---
 
-📈  INSIGHTS GAINED
-• Identified seasonal sales peaks and low-demand periods.  
-• Recognized high-revenue products contributing most to overall performance.  
-• Provided recommendations for inventory optimization and resource planning.  
-• Demonstrated data-driven thinking aligned with operational excellence.
+## 🛠️ Tools & Techniques  
+| Category | Tools / Methods |
+|-----------|----------------|
+| Data Preparation | Excel (cleaning, calculations, lookups) |
+| Visualization | Power BI (dashboards, KPIs, drill-throughs) |
+| Analysis | Statistical summaries, growth & variance analysis |
+| Data Source | CSV – structured Amazon sales dataset |
 
--------------------------------------------------------------
+---
 
-📁  PROJECT FILES
-• Amazon Sales Report Raw Data.csv – Source dataset  
-• Amazon Sales Report Analysis.pdf – Dashboard report and visual summary  
-• README.md – Project documentation and overview
+## 📈 Key Insights  
+- Discovered seasonal sales peaks and periods of reduced demand.  
+- Identified top-performing and underperforming products by revenue share.  
+- Highlighted opportunities to optimize pricing and inventory levels.  
+- Revealed correlations between product type, order volume, and total profit.  
 
--------------------------------------------------------------
+---
 
-🧩  PROJECT SUMMARY
-• This project showcases how structured sales data can be transformed into valuable insights through business analytics and visualization.  
-• It highlights analytical thinking, attention to detail, and operational awareness — skills relevant to roles in analytics and management.
+## 📂 Project Files  
+| File Name | Description |
+|------------|-------------|
+| `Amazon Sales Report Raw Data.csv` | Source dataset used for analysis |
+| `Amazon Sales Report Analysis.pdf` | Final dashboard and visual summary |
+| `README.md` | Project documentation |
 
--------------------------------------------------------------
+---
 
-📬  AUTHOR
-• Parasuram Reddy Punyala  
-• Limerick, Ireland  
-• parasuramreddypunyala@gmail.com  
-• LinkedIn | GitHub
+## 🧩 Summary  
+This project demonstrates how structured business data can be transformed into actionable insights through analytics and visualization.  
+It reflects critical thinking, attention to detail, and operational awareness — skills valuable in analytical and managerial environments.
+
+---
+
+## 👤 Author  
+**Parasuram Reddy Punyala**  
+📍 Limerick, Ireland  
+📧 parasuramreddypunyala@gmail.com  
+🔗 [LinkedIn](#) • [GitHub](#)
